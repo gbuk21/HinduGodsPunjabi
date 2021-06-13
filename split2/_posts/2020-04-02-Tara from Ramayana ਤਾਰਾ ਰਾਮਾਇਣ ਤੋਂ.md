@@ -134,3 +134,5 @@
 34) ਪੰਚਕਨੀ ਕੌਣ ਹਨ?
 
 ਅਹਲੀਆ, ਦ੍ਰੋਪਦੀ, ਕੁੰਤੀ, ਤਾਰਾ ਅਤੇ ਮੰਡੋਦਰੀ
+
+[Next]({{ site.baseurl }}{% link  split2/_posts/2020-04-02-Mandodari from Ramayana ਰਮਾਇਣ ਤੋਂ ਮੰਡੋਦਰੀ.md %})
